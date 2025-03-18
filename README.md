@@ -15,7 +15,7 @@
 🤝 I feel very comfortable in team environments, as I believe that diverse perspectives and opinions usually lead to a better final result. As someone who believes in continuous growth, I am convinced that being part of a team is always a great opportunity to contribute value while learning new things (both technical and non-technical) from your teammates.
 
 ## 📊 My GitHub stats
-<p align="center">
+<p align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=otrocadev&show_icons=true&theme=radical" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otrocadev&layout=compact&theme=radical" height="180">
 </p>
