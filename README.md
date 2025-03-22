@@ -1,10 +1,11 @@
-<p align="center" width="300">
-  <img src="./otroca.avif" alt="Picture of Ot Roca">
-</p>
 
 👋🏼 Hi! I am 
 # Ot Roca (@otrocadev)
 ## 💻 **Software Engineering Student at UOC | Web Developer**
+
+<p align="center" width="300">
+  <img src="./otroca.avif" alt="Picture of Ot Roca">
+</p>
 
 🙂 My name is Ot, thanks for taking the time to see my profile! I am mainly a Front-end dev, and I enjoy a lot cretating great solutions from the ideas I have!
 
