@@ -1,21 +1,37 @@
 
 👋🏼 Hi! I am 
 # Ot Roca (@otrocadev)
-## 💻 **Software Engineering Student at UOC | Web Developer**
+## 💻 **Software Engineer | FrontEnd Web Developer**
 
 <p align="center" width="300">
   <img src="./otroca.avif" alt="Picture of Ot Roca">
 </p>
 
-🙂 My name is Ot, thanks for taking the time to see my profile! I am mainly a Front-end dev, and I enjoy a lot cretating great solutions from the ideas I have!
+🙂 My name is Ot, thanks for taking the time to see my profile! I am mainly a Front-end dev, and I enjoy a lot cretating great solutions from the ideas I have. I firmly believe that the most important thing in life is having the right attitude to always improve and bring out the best version of yourself.
 
-💻 I have been programing for a long now, but this last year is when I started taking it seriously while I am studying to be a Software Engineer.
+## 🧰 Languages and skills
 
-🧩 I consider myself a proactive person who enjoys continuously learning new technologies to add value. I firmly believe that the most important thing in life is having the right attitude to always improve and bring out the best version of yourself.
+### Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+</p>
 
-🤝 I feel very comfortable in team environments, as I believe that diverse perspectives and opinions usually lead to a better final result. As someone who believes in continuous growth, I am convinced that being part of a team is always a great opportunity to contribute value while learning new things (both technical and non-technical) from your teammates.
+### Frontend Web frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" alt="Astro" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-original.svg" width="40" alt="Tailwind CSS" />
+</p>
+  
 
 ## 📊 My GitHub stats
-<p align="center" display="flex">
+<p align="left" display="flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otrocadev&layout=compact&theme=radical" height="180">
 </p>
