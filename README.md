@@ -25,9 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
 </p>
-  
 
-## 📊 My GitHub stats
-<p align="left" display="flex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otrocadev&layout=compact&theme=radical" height="180">
-</p>
+## 👨‍💻 Currently working on:
+# [MotoGP game](motogp.otroca.dev)
+<a href="http://motogp.otroca.dev" target="_blank" rel="noopener noreferrer">
+<img width="361" height="59" alt="Screenshot 2025-12-06 at 10 37 59" src="https://github.com/user-attachments/assets/6b2dbf4e-20fd-46a0-b5d1-d4317db509e9" />
+</a>
+
+- [See the repo](https://github.com/otrocadev/motogp-game)
+- [Live demo](http://motogp.otroca.dev)
