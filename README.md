@@ -27,7 +27,7 @@
 </p>
 
 ## 👨‍💻 Currently working on:
-# [MotoGP game](motogp.otroca.dev)
+### [MotoGP game](motogp.otroca.dev)
 <a href="http://motogp.otroca.dev" target="_blank" rel="noopener noreferrer">
 <img width="361" height="59" alt="Screenshot 2025-12-06 at 10 37 59" src="https://github.com/user-attachments/assets/6b2dbf4e-20fd-46a0-b5d1-d4317db509e9" />
 </a>
