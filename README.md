@@ -27,10 +27,31 @@
 </p>
 
 ## 👨‍💻 Currently working on:
-### [MotoGP game](motogp.otroca.dev)
+### [ITA Challenges](http://dev.ita-challenges.eurecatacademy.org/ita-challenge/challenges) as frontend developer
+<img width="360" height="90" alt="image" src="https://github.com/user-attachments/assets/24228f38-371a-442b-aa79-71d7f04f8559" />
+
+<div>
+  <span>
+    <a href="https://github.com/IT-Academy-BCN/ita-challenges" target="_blank" rel="noopener noreferrer">See the repo</a>
+  </span>
+  <span>
+    <a href="http://dev.ita-challenges.eurecatacademy.org/ita-challenge/challenges" target="_blank" rel="noopener noreferrer">Live demo</a>
+  </span>
+</div>
+
+
+
+### [MotoGP game](motogp.otroca.dev) as a personal project
+
 <a href="http://motogp.otroca.dev" target="_blank" rel="noopener noreferrer">
-<img width="361" height="59" alt="Screenshot 2025-12-06 at 10 37 59" src="https://github.com/user-attachments/assets/6b2dbf4e-20fd-46a0-b5d1-d4317db509e9" />
+<img width="360" height="60" alt="Screenshot 2025-12-06 at 10 37 59" src="https://github.com/user-attachments/assets/6b2dbf4e-20fd-46a0-b5d1-d4317db509e9" />
 </a>
 
-- [See the repo](https://github.com/otrocadev/motogp-game)
-- [Live demo](http://motogp.otroca.dev)
+<div>
+  <span>
+    <a href="https://github.com/otrocadev/motogp-game" target="_blank" rel="noopener noreferrer">See the repo</a>
+  </span>
+  <span>
+    <a href="https://motogp.otroca.dev" target="_blank" rel="noopener noreferrer">Live demo</a>
+  </span>
+</div>
