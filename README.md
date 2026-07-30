@@ -1,4 +1,3 @@
-
 👋🏼 Hi! I am 
 # Ot Roca (@otrocadev)
 ## 💻 **Software Engineer | FrontEnd Web Developer**
@@ -26,23 +25,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
 </p>
 
-## 👨‍💻 Currently working on:
-### [ITA Challenges](http://dev.ita-challenges.eurecatacademy.org/ita-challenge/challenges) as frontend developer
-<img width="360" height="90" alt="image" src="https://github.com/user-attachments/assets/24228f38-371a-442b-aa79-71d7f04f8559" />
+## 👨‍💻 Currently working at:
+### [Vueling](https://www.vueling.com) as a frontend developer with Angular
+<img width="125" height="70" alt="vueling" src="https://github.com/user-attachments/assets/5ddf6597-c0a0-4fe6-b086-56e0b998b096" />
 
-<div>
-  <span>
-    <a href="https://github.com/IT-Academy-BCN/ita-challenges" target="_blank" rel="noopener noreferrer">See the repo</a>
-  </span>
-  <span>
-    <a href="http://dev.ita-challenges.eurecatacademy.org/ita-challenge/challenges" target="_blank" rel="noopener noreferrer">Live demo</a>
-  </span>
-</div>
+## Some of my projects:
 
-
-
-### [MotoGP game](motogp.otroca.dev) as a personal project
-
+### [MotoGP game](motogp.otroca.dev)
 <a href="http://motogp.otroca.dev" target="_blank" rel="noopener noreferrer">
 <img width="360" height="60" alt="Screenshot 2025-12-06 at 10 37 59" src="https://github.com/user-attachments/assets/6b2dbf4e-20fd-46a0-b5d1-d4317db509e9" />
 </a>
